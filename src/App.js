@@ -1,6 +1,6 @@
 import React from 'react';
 import {
-  BrowserRouter as Router,
+  HashRouter as Router,
   Route,
   Switch,
 } from 'react-router-dom';
@@ -52,7 +52,6 @@ export default () => (
         <Route path="/forbidden" component={Forbidden} />
         <Route path="/notfound" component={NotFound} />
         <Route path="/error" component={UnhandledError} />
-        <Route component={NotFound} />
       </Switch>
     </div>
   </Router>
