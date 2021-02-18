@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/school-app/static/css/main.e5a651a2.chunk.css",
-    "main.js": "/school-app/static/js/main.c6ae229a.chunk.js",
-    "main.js.map": "/school-app/static/js/main.c6ae229a.chunk.js.map",
+    "main.js": "/school-app/static/js/main.bb0a9498.chunk.js",
+    "main.js.map": "/school-app/static/js/main.bb0a9498.chunk.js.map",
     "runtime~main.js": "/school-app/static/js/runtime~main.d30b6eb1.js",
     "runtime~main.js.map": "/school-app/static/js/runtime~main.d30b6eb1.js.map",
-    "static/js/2.5fe30e26.chunk.js": "/school-app/static/js/2.5fe30e26.chunk.js",
-    "static/js/2.5fe30e26.chunk.js.map": "/school-app/static/js/2.5fe30e26.chunk.js.map",
+    "static/js/2.5f1f276c.chunk.js": "/school-app/static/js/2.5f1f276c.chunk.js",
+    "static/js/2.5f1f276c.chunk.js.map": "/school-app/static/js/2.5f1f276c.chunk.js.map",
     "index.html": "/school-app/index.html",
-    "precache-manifest.cae54d7f73b63c8b86f98a4885411a41.js": "/school-app/precache-manifest.cae54d7f73b63c8b86f98a4885411a41.js",
+    "precache-manifest.1527b6fc38c213c67082547109ab4489.js": "/school-app/precache-manifest.1527b6fc38c213c67082547109ab4489.js",
     "service-worker.js": "/school-app/service-worker.js",
     "static/css/main.e5a651a2.chunk.css.map": "/school-app/static/css/main.e5a651a2.chunk.css.map"
   }
