@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/school-app/static/css/main.e5a651a2.chunk.css",
+    "main.js": "/school-app/static/js/main.bb0a9498.chunk.js",
+    "main.js.map": "/school-app/static/js/main.bb0a9498.chunk.js.map",
+    "runtime~main.js": "/school-app/static/js/runtime~main.d30b6eb1.js",
+    "runtime~main.js.map": "/school-app/static/js/runtime~main.d30b6eb1.js.map",
+    "static/js/2.5f1f276c.chunk.js": "/school-app/static/js/2.5f1f276c.chunk.js",
+    "static/js/2.5f1f276c.chunk.js.map": "/school-app/static/js/2.5f1f276c.chunk.js.map",
+    "index.html": "/school-app/index.html",
+    "precache-manifest.1527b6fc38c213c67082547109ab4489.js": "/school-app/precache-manifest.1527b6fc38c213c67082547109ab4489.js",
+    "service-worker.js": "/school-app/service-worker.js",
+    "static/css/main.e5a651a2.chunk.css.map": "/school-app/static/css/main.e5a651a2.chunk.css.map"
+  }
+}
